@@ -8,7 +8,8 @@
 
 ### Focus was put on developing scaleable and re-usable plain JavaScript components.
 
-### Rendering cards based on server data, working with local storage, visually notifying user about POST requests processing, calculating calories output dependent on user input, etc...
+\
+Rendering cards based on server data, working with local storage, visually notifying user about POST requests processing, calculating calories output dependent on user input, etc...
 
 ---
 
